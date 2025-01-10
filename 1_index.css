@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  header{
+    background-color: gray;
+  }
+  nav{
+    background-color: yellow;
+  }
+  main{
+    background-color: #f4f4f4; 
+      font-size: 18px; 
+  }
+  footer{
+    background-color: #222; 
+    color: white;           
+  }
+  h1{
+    display: inline-block; 
+    width: 100px;  
+  }
+  p{
+    line-height: 1.6;
+  }
